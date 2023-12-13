@@ -1,7 +1,7 @@
-### Hi there 👋
 
 <!--
-**henry-israel/henry-israel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**henry-is![github-header-image](https://github.com/henry-israel/henry-israel/assets/67589487/e1260465-4770-49ae-8e69-f383cdf28a3b)
+rael/henry-israel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
