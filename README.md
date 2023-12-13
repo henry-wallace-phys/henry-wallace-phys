@@ -1,16 +1,17 @@
 
-<!--
-**henry-is![github-header-image](https://github.com/henry-israel/henry-israel/assets/67589487/e1260465-4770-49ae-8e69-f383cdf28a3b)
-rael/henry-israel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github-header-image](https://github.com/henry-israel/henry-israel/assets/67589487/e1260465-4770-49ae-8e69-f383cdf28a3b)
 
-Here are some ideas to get you started:
+# About Me :
+I'm a Physics PhD student at the university of Sheffield! I code in C++ in my day job and Python when I'm bored!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Interests
+- Bayesian MCMC
+- Neutrino Physics
+- Climbing Things
+
+# Projects
+- MaCh3 : https://github.com/mach3-software/MaCh3 [on the private repo]
+- Fun Little MCMC test project : https://github.com/henry-israel/MCMC_Test_Environment/tree/develop
+- Teaching myself OOP with spotify : https://github.com/henry-israel/spotify_randomiserstuff
+- A little widget to help run DND : https://github.com/henry-israel/DnDFightSimulator/tree/develop
+  
