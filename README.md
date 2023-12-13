@@ -1,5 +1,5 @@
 
-![github-header-image](https://github.com/henry-israel/henry-israel/assets/67589487/e1260465-4770-49ae-8e69-f383cdf28a3b)
+![github-header-image](https://github.com/henry-israel/henry-israel/assets/67589487/c68ab44d-4c1b-4d89-8445-c9060fd7e2b9)
 
 # About Me :
 I'm a Physics PhD student at the university of Sheffield! I code in C++ in my day job and Python when I'm bored!
