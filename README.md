@@ -1,5 +1,4 @@
-
-![github-header-image](https://github.com/henry-israel/henry-israel/assets/67589487/c68ab44d-4c1b-4d89-8445-c9060fd7e2b9)
+![github-header-image-2](https://github.com/henry-wallace-phys/henry-wallace-phys/assets/67589487/3a156784-9c13-47e7-bc9e-a2527336b04e)
 
 # About Me :
 I'm a Physics Post-Doc at Royal Holloway! I code in C++ in my day job and Python when I'm bored!
