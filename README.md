@@ -1,7 +1,7 @@
 ![github-header-image-2](https://github.com/henry-wallace-phys/henry-wallace-phys/assets/67589487/3a156784-9c13-47e7-bc9e-a2527336b04e)
 
 # About Me :
-I'm a Physics Post-Doc at Royal Holloway! I code in C++ in my day job and Python when I'm bored!
+I'm a Physics Post-Doc at Royal Holloway working with neutrinos on DUNE!
 
 # Interests
 - Bayesian MCMC
